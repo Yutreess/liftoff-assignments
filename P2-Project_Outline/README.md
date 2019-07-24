@@ -8,11 +8,11 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 
-    RankedVote will host polls for users to have a
+RankedVote will host polls for users to have a
 place to eaily handle voting, especially in large groups. 
 Specifically, this will focus on hosting polls using a voting system of choice by the poll's creator. The most common voting system, First-Past-The-Post (or for short "Plurality voting") can be undemocratic when dealing with more than one choice. For this reason, perhaps a user would want to use Ranked Choice Voting, or Approval Voting. With this application, the poll creator has the power to decide which voting system they will use.
 
-    Government Simulation role-players face the issue of
+Government Simulation role-players face the issue of
 holding more complicated voting systems for their elections.
 Proportional Representation systems such as D'Hondt Method 
 and calculating the need of Overhang Seats take some time to calculate for when counting votes. This application would host a way for government simulation role-players to give how their legislative body is structured, how the voting system works, and generate a poll for this body to give to their audiences to more easily conduct elections. Such a feature will also be used by those wanting to implement different voting systens in real life governments, and provide an educational tool to demonstrate how some systems work to their audiences.
