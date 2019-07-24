@@ -8,7 +8,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 
-RankedVote will host polls for users to have a
+MultiVote will host polls for users to have a
 place to eaily handle voting, especially in large groups. 
 Specifically, this will focus on hosting polls using a voting system of choice by the poll's creator. The most common voting system, First-Past-The-Post (or for short "Plurality voting") can be undemocratic when dealing with more than one choice. For this reason, perhaps a user would want to use Ranked Choice Voting, or Approval Voting. With this application, the poll creator has the power to decide which voting system they will use.
 
