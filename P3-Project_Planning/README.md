@@ -10,10 +10,16 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
+Home Page:
+
+![Home Page Wireframe](/wireframes/homepage.png)
+
 ### Project Tracker
 
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
 
+[Trello Tracker](https://trello.com/b/wbnl9Uae/multivote)
+
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+[MultiVote Repository](https://github.com/Yutreess/multivote)
