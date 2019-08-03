@@ -12,7 +12,15 @@ For this assignment, you'll create some initial plans for your project.
 
 Home Page:
 
-![Home Page Wireframe](/wireframes/homepage.png)
+![Home Page Wireframe](homepage.png)
+
+Sign-up Page:
+
+![Sign-up Page Wireframe](sign-up.png)
+
+User's Home Page:
+
+![User's Home Page Wireframe](account-home.png)
 
 ### Project Tracker
 
